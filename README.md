@@ -29,6 +29,7 @@ sudo cp <compilation name>.bin /media/<username>/boot/<compilation name>.bin
 sudo ./upload <compilation name>.bin 0x007f800
 ```
 
+## Publication
 The  testing  is conducted  by  focusing  on  evaluating the performance of the FLoWRTOS kernel, by using a plant and without using a plant. The results of the performance test can be seen in more detail in the publication:
 * [IEEE][ieee-url]
 * [Scopus][scopus-url]
